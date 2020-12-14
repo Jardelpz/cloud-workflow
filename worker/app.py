@@ -6,7 +6,7 @@ def job():
     receive_messages()
 
 
-schedule.every(1).seconds.do(job)
+schedule.every(10).seconds.do(job)
 
 while True:
     schedule.run_pending()
