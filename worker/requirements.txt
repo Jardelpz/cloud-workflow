@@ -1,4 +1,0 @@
-boto3==1.16.35
-python-decouple==3.3
-schedule==0.6.0
-schematics==2.1.0
