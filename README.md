@@ -4,5 +4,5 @@
 ## Architecture
 
 
-![achiteture (1)](https://user-images.githubusercontent.com/32064166/102038015-fb997080-3da4-11eb-80f7-c1f974bb580f.png)
+![achiteture](https://user-images.githubusercontent.com/32064166/102089867-886f1900-3dfb-11eb-8e39-a690cfaff6b9.png)
 
